@@ -1,0 +1,80 @@
+body{
+   font-family:'Courier New', Courier, monospace;
+   margin: 0;
+   padding: 0;
+   
+  
+
+}
+
+#main{
+    max-width: 82em;
+    text-align: center;
+    background-color: #f0f0f0;
+    margin: 1.5em auto;
+    border-radius: 0.3em;
+    padding: 1em auto;
+}
+
+#img-div{max-width: 78.25em;
+    margin: auto;
+    padding: 0.5em;
+    background-color: #ffffff;
+    
+    
+}
+#image{
+    
+    width: 56.25em;
+    padding-top: 2em ;
+    margin: auto;
+  
+}
+img{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+    background-color: #fff;
+}
+
+#img-caption{
+ max-width: 51em;
+    margin: 0 auto;
+    padding: 0.5em;
+ 
+   font-size: 1.12em;
+   opacity: 0.9;
+   background-color: white;
+   
+}
+
+#tribute-info{ max-width: 30em;
+   text-align: left;
+   margin: auto;
+  
+    padding: 1.3em;
+   
+    font-weight: 500;
+    font-size: 1.2em;
+}
+li{
+    padding-bottom: 1.3em;
+   
+}
+
+#title{
+    font-size: 3em;
+   line-height: normal;
+padding-top: 1em;
+  
+}
+
+strong{
+    font-weight: bolder;
+    font-size: 1.1em;
+    
+}
+h3{
+    padding-bottom: 1em;
+}
